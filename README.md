@@ -1,7 +1,7 @@
 # Green Landing Page
 
-[](https://www.google.com/search?q=https://github.com/khdxsohee/Green-Landing-Page/stargazers)
-[](https://www.google.com/search?q=https://github.com/khdxsohee/Green-Landing-Page/network)
+[](https://www.google.com/search?q=https://github.com/farhan-swe/Green-Landing-Page/stargazers)
+[](https://www.google.com/search?q=https://github.com/farhan-swe/Green-Landing-Page/network)
 [](https://opensource.org/licenses/MIT)
 [](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -33,7 +33,7 @@ This project is very easy to set up and run locally.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/khdxsohee/Green-Landing-Page.git
+    git clone https://github.com/farhan-swe/Green-Landing-Page.git
     ```
 
 2.  **Navigate to the project directory:**
